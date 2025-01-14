@@ -1,4 +1,4 @@
-اینجا یک نسخه‌ی حرفه‌ای و مرتب از **README.md** آورده شده که می‌توانید مستقیماً کپی و استفاده کنید:  # E-Commerce Website Built with WordPress and WooCommerce
+
 
 This project is a fully functional e-commerce website developed using WordPress and WooCommerce. It supports multiple product types, efficient shipping configurations, and a user-friendly design. The website is optimized for Persian-speaking users and incorporates modern web design practices.
 
@@ -70,8 +70,3 @@ Contributions are welcome! Please follow these steps:
 For any questions or feedback, feel free to contact me at:  
 **Email**: shayan138190@mail.com 
 **GitHub**: https://github.com/Amirshayan2002
-```
-
-### نحوه استفاده:
-- قسمت‌هایی مثل `your-username` یا `your-email@example.com` را با اطلاعات خودتان جایگزین کنید.
-- متن آماده است تا مستقیماً در گیت‌هاب آپلود شود.
